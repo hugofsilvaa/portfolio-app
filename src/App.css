@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap");
 body {
   background: linear-gradient(90deg, #345e55 0%, rgb(26, 23, 23) 110%);
+  font-family: "Titillium Web", sans-serif;
+  color: #e6dfda;
 }
