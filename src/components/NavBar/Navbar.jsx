@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import { AiOutlineHome } from "react-icons/ai";
 import { IoPersonOutline } from "react-icons/io5";
 import { FaTools } from "react-icons/fa";
-
 import "./Navbar.css";
 
 function Navbar() {

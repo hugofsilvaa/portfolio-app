@@ -2,9 +2,9 @@
   width: 100%;
   display: flex;
   justify-content: space-around;
-  position: fixed;
-  align-items: center;
+  position: static;
   bottom: 0;
+  align-items: center;
   height: 50px;
 }
 
