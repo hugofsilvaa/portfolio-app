@@ -2,11 +2,20 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.main-container:hover {
+  box-shadow: 13px 13px 23px 5px #1b332e;
+  transform: scale(1.1);
+  transition: 0.8s;
 }
 
 .project-container {
   margin-top: 50px;
-  margin-bottom: 70px;
+  margin-bottom: 11px;
   display: flex;
   justify-content: space-evenly;
 }
@@ -17,13 +26,27 @@
 
 .button {
   text-align: center;
-  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.button button {
+  border: none;
+  background: #335c52;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
 }
 
 .button button:hover {
   box-shadow: 13px 13px 23px 5px #253330;
-  transform: scale(1.8) translateX(10px);
+  transform: scale(1.1);
   transition: 0.8s;
+}
+
+.button button:focus {
+  outline: none;
 }
 
 .card-container h1 {

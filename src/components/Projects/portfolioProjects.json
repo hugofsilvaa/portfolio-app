@@ -5,14 +5,14 @@
       "img": "https://www.dropbox.com/s/9u60bdtnqjbbuv3/Musiker.jpeg?raw=1",
       "id": 1,
       "description": "Welcome to Musiker, your new favourite platform to discover emerging artists and groups. Yes, we know. Nowadays, it's hard to navigate the music business. Between the multitude of sites, music streaming platforms and social media, it's becoming difficult to get noticed and stand out there. New bands and artists are promoted every week, with interviews and various content.",
-      "link": "https://compassionate-mestorf-b531af.netlify.app/"
+      "link": "https://musiker.netlify.app"
     },
     {
       "header": "Vaccinator",
       "img": "https://www.dropbox.com/s/er3n7ml8m1njvrt/Vaccinator.jpeg?raw=1",
       "id": 2,
       "description": "Vaccination around the Europe. The world is in the midst of a COVID-19 pandemic. The Vaccinator project was created to easily you could find the vaccination center near you. I have all the contacts needed in order to get in touch with the center and clarify any doubt! No excuse for not being vaccinated.",
-      "link": "#"
+      "link": "https://vaccinator.netlify.app"
     },
     {
       "header": "Epico",
