@@ -1,5 +1,5 @@
-import React from "react";
-import "./Home.css";
+import React from 'react';
+import './Home.css';
 
 export default function Home() {
   return (
@@ -13,8 +13,8 @@ export default function Home() {
           Passionate about innovation and technologies, so last year, in the
           middle of Covid pandemic, I have decided to start a Front-End Web
           Developer bootcamp
-        </p>{" "}
-        <br />
+        </p>
+
         <p>I am fluent in JavaScript and React</p>
         <p>
           and my main focus now is to develop a deeper knowledge on the

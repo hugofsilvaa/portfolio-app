@@ -1,17 +1,17 @@
-import React from "react";
-import "./About.css";
-import about from "./about-img.jpg";
-import { FaRunning } from "react-icons/fa";
-import { TiCameraOutline } from "react-icons/ti";
-import { MdLocalMovies } from "react-icons/md";
-import { IconContext } from "react-icons";
+import React from 'react';
+import './About.css';
+import about from './about-img.jpg';
+import { FaRunning } from 'react-icons/fa';
+import { TiCameraOutline } from 'react-icons/ti';
+import { MdLocalMovies } from 'react-icons/md';
+import { IconContext } from 'react-icons';
 import {
   DiJavascript,
   DiReact,
   DiGithubBadge,
   DiSass,
   DiTerminalBadge,
-} from "react-icons/di";
+} from 'react-icons/di';
 
 export default function About() {
   return (
@@ -28,14 +28,11 @@ export default function About() {
             from Lisbon, Portugal persuing the dream to create revolutionary and
             innovative apps.
           </p>
-          <br />
           <p>
             I have a strong financial background, been working in banks and
             recently in shared service!
           </p>
-          <br />
           <p>Besides my professional occupation, I love to:</p>
-          <br />
           <ul>
             <li>
               <FaRunning /> Runnning
@@ -53,7 +50,7 @@ export default function About() {
         <h1>Skills</h1>
       </div>
       <div className='tools-logos'>
-        <IconContext.Provider value={{ size: "4rem" }}>
+        <IconContext.Provider value={{ size: '4rem' }}>
           <DiJavascript />
           <DiReact />
           <DiGithubBadge />
