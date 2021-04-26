@@ -3,4 +3,9 @@ body {
   background: linear-gradient(90deg, #345e55 0%, rgb(26, 23, 23) 110%);
   font-family: "Titillium Web", sans-serif;
   color: #e6dfda;
+  height: 100vh;
+}
+
+.App {
+  height: 100vh;
 }
