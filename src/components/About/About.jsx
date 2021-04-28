@@ -25,7 +25,7 @@ export default function About() {
           <br />
           <p>
             Hello, I am Hugo Silva and I am a Junior Front-End Web Developer
-            from Lisbon, Portugal persuing the dream to create revolutionary and
+            from Lisbon, Portugal pursuing the dream to create revolutionary and
             innovative apps.
           </p>
           <p>

@@ -15,12 +15,12 @@ export default function Home() {
           Developer bootcamp
         </p>
 
-        <p>I am fluent in JavaScript and React</p>
         <p>
-          and my main focus now is to develop a deeper knowledge on the
-          languages having in mind the best practcises
+          I am fluent in JavaScript and React and my main focus now is to
+          develop deeper knowledge on the languages having in mind the best
+          practices and applying that knowledge to personal and professional
+          projects
         </p>
-        <p>and applying that knowledge on personal and professional projects</p>
       </div>
       <div className='coding-gif'>
         <img
